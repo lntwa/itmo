@@ -1,0 +1,31 @@
+week_days:
+  tuesday:
+    - lesson:
+        subject: "Lineal Algebra"
+        type: "Practice"
+        classroom: "2430"
+        time: "8:20-9:50"
+        teacher: "Rvanova Alla"
+        building: "Kronva"
+    - lesson:
+        subject: "Linear Algebra"
+        type: "Lecture"
+        classroom: "2426"
+        time: "10:00-11:30"
+        teacher: "Rvanova Alla"
+        building: "Kronva"
+  thursday:
+    - lesson:
+        subject: "Russia in the history of international relations"
+        type: "Practice"
+        classroom: "2426"
+        time: "13:30-15:00"
+        teacher: "Pavlovsky Alexey"
+        building: "Kronva"
+    - lesson:
+        subject: "Russia in the history of international relations"
+        type: "Lecture"
+        classroom: "Orange Classroom (1229)"
+        time: "17:00-18:30"
+        teacher: "Bogomazov Nikolai"
+        building: "Kronva"

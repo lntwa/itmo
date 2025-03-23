@@ -1,0 +1,854 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Лекции\nЗаметка: zoom
+DTEND:20250315T064000Z
+ORGANIZER;CN=Сердюков Александр Николаевич:mailto:Сердюков Александр Николаевич
+DTSTART:20250315T051000Z
+SUMMARY:Линейная алгебра
+UID:3e1b42eb-dcde-4114-a590-4791419a859a@3e1b.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М Актовый зал (1216/0 (усл))\nЛекции\nЗаметка: актовый зал
+DTEND:20250305T100000Z
+ORGANIZER;CN=Николаев Владимир Вячеславович:mailto:Николаев Владимир Вячеславович
+DTSTART:20250305T083000Z
+SUMMARY:Базы данных
+UID:85c6c6c8-ba34-4bce-be24-2692b96908bc@85c6.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1428\nПрактические занятия
+DTEND:20250320T120000Z
+ORGANIZER;CN=Кутлубаева Дария Нуровна:mailto:Кутлубаева Дария Нуровна
+DTSTART:20250320T103000Z
+SUMMARY:Россия в истории современных международных отношений
+UID:578d930f-bbb9-4aa5-9105-359cf7bf6229@578d.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Лекции\nЗаметка: zoom
+DTEND:20250329T064000Z
+ORGANIZER;CN=Сердюков Александр Николаевич:mailto:Сердюков Александр Николаевич
+DTSTART:20250329T051000Z
+SUMMARY:Линейная алгебра
+UID:314d9865-4acb-4b3c-9136-d217d3586513@314d.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1226\nЗанятия спортом
+DTEND:20250308T143000Z
+ORGANIZER;CN=Коляда Всеволод Алексеевич:mailto:Коляда Всеволод Алексеевич
+DTSTART:20250308T130000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:c753436b-b1c0-4375-8d53-90ef563964a5@c753.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1310\nПрактические занятия
+DTEND:20250328T154000Z
+ORGANIZER;CN=Власова Ассоль Александровна:mailto:Власова Ассоль Александровна
+DTSTART:20250328T141000Z
+SUMMARY:Критический анализ новостей: идеология\, власть\, манипуляция/ Analyzing the news: ideology\, power\, manipulation
+UID:d2444c9a-a8e7-4432-8ae3-907f85f1bf6d@d244.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1222\nЗанятия спортом
+DTEND:20250226T171000Z
+ORGANIZER;CN=Чирков Кирилл Александрович:mailto:Чирков Кирилл Александрович
+DTSTART:20250226T154000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:6d018924-75ba-4b06-a0ef-36e102054bdf@6d01.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1327\nЛабораторные занятия
+DTEND:20250313T154000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250313T141000Z
+SUMMARY:Базы данных
+UID:f1fe8df1-3195-400a-bcbe-89505e4dba36@f1fe.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1327\nЛабораторные занятия
+DTEND:20250327T140000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250327T123000Z
+SUMMARY:Базы данных
+UID:614b01b5-ff91-4bb2-8881-7cb8cb980f90@614b.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1226\nЗанятия спортом
+DTEND:20250329T143000Z
+ORGANIZER;CN=Коляда Всеволод Алексеевич:mailto:Коляда Всеволод Алексеевич
+DTSTART:20250329T130000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:a64c3968-db6a-4006-a52d-03d84511e549@a64c.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1410\nПрактические занятия
+DTEND:20250321T064000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250321T051000Z
+SUMMARY:Математический анализ
+UID:91f6bf70-2e6c-4eb3-8360-50da8be7b8e9@91f6.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1338\nЛабораторные занятия
+DTEND:20250226T154000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250226T141000Z
+SUMMARY:Программирование
+UID:fc20b776-d2d8-4e86-b7ff-536ef7889446@fc20.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М Актовый зал (1216/0 (усл))\nЛекции\nЗаметка: актовый зал
+DTEND:20250226T082000Z
+ORGANIZER;CN=Клименков Сергей Викторович:mailto:Клименков Сергей Викторович
+DTSTART:20250226T065000Z
+SUMMARY:Основы профессиональной деятельности
+UID:77da4692-6d7b-473a-bd29-64321049b3a0@77da.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1315\nПрактические занятия\nЗаметка: Лаврухин В.А.
+DTEND:20250311T100000Z
+DTSTART:20250311T083000Z
+SUMMARY:Линейная алгебра
+UID:7501a2d1-d475-4fb5-9e7b-24d3280e0dec@7501.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1506\nЛекции
+DTEND:20250310T140000Z
+ORGANIZER;CN=Поляков Владимир Иванович:mailto:Поляков Владимир Иванович
+DTSTART:20250310T123000Z
+SUMMARY:Дискретная математика (базовый уровень)
+UID:6bdfae50-2901-4cd4-b800-f4faa0c1ace5@6bdf.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1328\nЛабораторные занятия
+DTEND:20250227T100000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250227T083000Z
+SUMMARY:Основы профессиональной деятельности
+UID:88bf51c0-0a9d-40a7-b767-3e6a09a95d9b@88bf.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1506\nПрактические занятия
+DTEND:20250324T154000Z
+ORGANIZER;CN=Поляков Владимир Иванович:mailto:Поляков Владимир Иванович
+DTSTART:20250324T141000Z
+SUMMARY:Дискретная математика (базовый уровень)
+UID:a488e442-04ff-49ba-aea1-3e47c6ddd408@a488.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2336\nПрактические занятия
+DTEND:20250324T120000Z
+ORGANIZER;CN=Баликоева Залина Даниловна:mailto:Баликоева Залина Даниловна
+DTSTART:20250324T103000Z
+SUMMARY:Коммуникации и командообразование
+UID:9e6fb5f7-d1c6-4d9f-a098-6e97ae1387bd@9e6f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1328\nЛабораторные занятия
+DTEND:20250327T120000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250327T103000Z
+SUMMARY:Основы профессиональной деятельности
+UID:57568d61-a764-49e0-8c45-005bb1a78cd8@5756.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250225T082000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250225T065000Z
+SUMMARY:Английский язык C1
+UID:8276e7e8-9f8d-402c-bc2c-7e2bff9f717b@8276.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2336\nПрактические занятия
+DTEND:20250303T100000Z
+ORGANIZER;CN=Баликоева Залина Даниловна:mailto:Баликоева Залина Даниловна
+DTSTART:20250303T083000Z
+SUMMARY:Коммуникации и командообразование
+UID:5e336626-5616-47f8-a892-e0ed78d0f060@5e33.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1506\nЛекции
+DTEND:20250324T140000Z
+ORGANIZER;CN=Поляков Владимир Иванович:mailto:Поляков Владимир Иванович
+DTSTART:20250324T123000Z
+SUMMARY:Дискретная математика (базовый уровень)
+UID:1d7d73b0-6d73-484e-9c9a-96461d6917df@1d7d.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1405\nЛекции
+DTEND:20250307T082000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250307T065000Z
+SUMMARY:Математический анализ
+UID:9b9410aa-0327-4554-abf0-2c8b3559b1c4@9b94.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1410\nПрактические занятия
+DTEND:20250228T064000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250228T051000Z
+SUMMARY:Математический анализ
+UID:693f93f1-e3bb-4294-ab56-798496dcf341@693f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1226\nЗанятия спортом
+DTEND:20250315T143000Z
+ORGANIZER;CN=Коляда Всеволод Алексеевич:mailto:Коляда Всеволод Алексеевич
+DTSTART:20250315T130000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:c223c760-8834-4c55-95ed-a512cfc4a36d@c223.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1506\nЛекции
+DTEND:20250303T140000Z
+ORGANIZER;CN=Поляков Владимир Иванович:mailto:Поляков Владимир Иванович
+DTSTART:20250303T123000Z
+SUMMARY:Дискретная математика (базовый уровень)
+UID:cf1cd719-2d66-448d-b0ca-5b206d9e320f@cf1c.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Лекции
+DTEND:20250308T172000Z
+ORGANIZER;CN=Богомазов Николай Иванович:mailto:Богомазов Николай Иванович
+DTSTART:20250308T155000Z
+SUMMARY:Россия в истории современных международных отношений
+UID:16dbb1fe-8759-4c58-b06d-c93288642be4@16db.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1222\nЗанятия спортом
+DTEND:20250319T171000Z
+ORGANIZER;CN=Чирков Кирилл Александрович:mailto:Чирков Кирилл Александрович
+DTSTART:20250319T154000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:ac7ad10f-e119-4b84-b8d5-9a7e9fedb3c1@ac7a.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Практические занятия
+DTEND:20250308T190000Z
+ORGANIZER;CN=Кутлубаева Дария Нуровна:mailto:Кутлубаева Дария Нуровна
+DTSTART:20250308T173000Z
+SUMMARY:Россия в истории современных международных отношений
+UID:cfa2bc4b-ad68-4af5-bbdc-c13ad9b03357@cfa2.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1506\nПрактические занятия
+DTEND:20250317T154000Z
+ORGANIZER;CN=Поляков Владимир Иванович:mailto:Поляков Владимир Иванович
+DTSTART:20250317T141000Z
+SUMMARY:Дискретная математика (базовый уровень)
+UID:11a5cb2f-2543-405c-b578-f7c02600a333@11a5.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2336\nПрактические занятия
+DTEND:20250310T120000Z
+ORGANIZER;CN=Баликоева Залина Даниловна:mailto:Баликоева Залина Даниловна
+DTSTART:20250310T103000Z
+SUMMARY:Коммуникации и командообразование
+UID:c7fbe302-7afd-4ad8-8ff9-4a4dabdee7e9@c7fb.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1338\nЛабораторные занятия
+DTEND:20250312T140000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250312T123000Z
+SUMMARY:Программирование
+UID:2ff46800-78b0-450a-8c2a-e51ff5f86217@2ff4.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1222\nЗанятия спортом
+DTEND:20250305T171000Z
+ORGANIZER;CN=Чирков Кирилл Александрович:mailto:Чирков Кирилл Александрович
+DTSTART:20250305T154000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:96473d24-8b2c-498d-b9a2-ac9ff9afa5e3@9647.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1327\nЛабораторные занятия
+DTEND:20250327T154000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250327T141000Z
+SUMMARY:Базы данных
+UID:dd4bcf71-ec62-4ab8-8ce2-3ae897553439@dd4b.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1405\nЛекции
+DTEND:20250321T082000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250321T065000Z
+SUMMARY:Математический анализ
+UID:7e8ee762-0d74-481c-b131-9da4fc1867b4@7e8e.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1327\nЛабораторные занятия
+DTEND:20250227T154000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250227T141000Z
+SUMMARY:Базы данных
+UID:d03aa9d4-ba58-4a5f-8281-40f813822fee@d03a.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1338\nЛабораторные занятия
+DTEND:20250226T140000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250226T123000Z
+SUMMARY:Программирование
+UID:79095162-c705-421e-890e-f88fad7ecd5a@7909.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Лекции\nЗаметка: zoom
+DTEND:20250301T064000Z
+ORGANIZER;CN=Сердюков Александр Николаевич:mailto:Сердюков Александр Николаевич
+DTSTART:20250301T051000Z
+SUMMARY:Линейная алгебра
+UID:bf293bc4-90a0-489d-9433-47c119de9ec7@bf29.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1410\nПрактические занятия
+DTEND:20250328T064000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250328T051000Z
+SUMMARY:Математический анализ
+UID:2fdf25fc-502f-4745-a498-42fb48b14c38@2fdf.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1328\nЛабораторные занятия
+DTEND:20250327T100000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250327T083000Z
+SUMMARY:Основы профессиональной деятельности
+UID:3bb0a819-e3ee-42c0-9c0b-15b1fdccdac7@3bb0.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1310\nПрактические занятия
+DTEND:20250307T154000Z
+ORGANIZER;CN=Власова Ассоль Александровна:mailto:Власова Ассоль Александровна
+DTSTART:20250307T141000Z
+SUMMARY:Критический анализ новостей: идеология\, власть\, манипуляция/ Analyzing the news: ideology\, power\, manipulation
+UID:406fafe2-ae9d-43f7-bfa2-e267252ad440@406f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1410\nПрактические занятия
+DTEND:20250307T064000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250307T051000Z
+SUMMARY:Математический анализ
+UID:a3c4cd86-045a-4f33-a176-70e9fb670255@a3c4.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1226\nЗанятия спортом
+DTEND:20250301T143000Z
+ORGANIZER;CN=Коляда Всеволод Алексеевич:mailto:Коляда Всеволод Алексеевич
+DTSTART:20250301T130000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:c543ac58-4963-4f56-b29b-05e0994d166a@c543.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1327\nЛабораторные занятия
+DTEND:20250313T140000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250313T123000Z
+SUMMARY:Базы данных
+UID:45b3fcfb-8a14-4839-8a0d-185cc3658110@45b3.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2407\nЛекции
+DTEND:20250320T140000Z
+ORGANIZER;CN=Богомазов Николай Иванович:mailto:Богомазов Николай Иванович
+DTSTART:20250320T123000Z
+SUMMARY:Россия в истории современных международных отношений
+UID:8a7c54e4-68df-4d59-bcb2-59317bb26445@8a7c.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2336\nПрактические занятия
+DTEND:20250317T100000Z
+ORGANIZER;CN=Баликоева Залина Даниловна:mailto:Баликоева Залина Даниловна
+DTSTART:20250317T083000Z
+SUMMARY:Коммуникации и командообразование
+UID:f010f990-d4f5-4249-a64c-cd29bf195a62@f010.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1222\nЗанятия спортом
+DTEND:20250326T171000Z
+ORGANIZER;CN=Чирков Кирилл Александрович:mailto:Чирков Кирилл Александрович
+DTSTART:20250326T154000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:dcf5f809-85b1-4c00-aa53-0fc34794cde9@dcf5.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1410\nПрактические занятия
+DTEND:20250314T064000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250314T051000Z
+SUMMARY:Математический анализ
+UID:e950b55b-5542-420d-a3b3-fa4b212ef390@e950.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1328\nЛабораторные занятия
+DTEND:20250227T120000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250227T103000Z
+SUMMARY:Основы профессиональной деятельности
+UID:51c6bd32-a0e3-4a19-82e3-1b9232d40e9a@51c6.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1327\nЛабораторные занятия
+DTEND:20250227T140000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250227T123000Z
+SUMMARY:Базы данных
+UID:dad69a8e-af74-4f24-8dac-157d2b255120@dad6.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250311T064000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250311T051000Z
+SUMMARY:Английский язык C1
+UID:000d099a-3723-4124-8ac3-e9bfef167f80@000d.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2407\nЛекции
+DTEND:20250306T140000Z
+ORGANIZER;CN=Богомазов Николай Иванович:mailto:Богомазов Николай Иванович
+DTSTART:20250306T123000Z
+SUMMARY:Россия в истории современных международных отношений
+UID:c2a14969-eaaf-46f8-80ab-d7a41cf5c329@c2a1.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Лекции
+DTEND:20250322T172000Z
+ORGANIZER;CN=Богомазов Николай Иванович:mailto:Богомазов Николай Иванович
+DTSTART:20250322T155000Z
+SUMMARY:Россия в истории современных международных отношений
+UID:ef77d83e-d202-400d-8b32-ac45e1c5d3e9@ef77.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1405\nЛекции
+DTEND:20250314T082000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250314T065000Z
+SUMMARY:Математический анализ
+UID:465acd0a-8abd-4d39-8601-b4cf9686f9ed@465a.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1338\nЛабораторные занятия
+DTEND:20250312T154000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250312T141000Z
+SUMMARY:Программирование
+UID:169a9736-678a-477e-8273-ca3980a58f16@169a.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Лекции\nЗаметка: zoom
+DTEND:20250308T064000Z
+ORGANIZER;CN=Сердюков Александр Николаевич:mailto:Сердюков Александр Николаевич
+DTSTART:20250308T051000Z
+SUMMARY:Линейная алгебра
+UID:6a433ca4-3b95-4ed8-a5e0-3088a318388c@6a43.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250325T082000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250325T065000Z
+SUMMARY:Английский язык C1
+UID:e93e7856-8d05-4ec3-ac66-8a44f46a7f6a@e93e.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М Актовый зал (1216/0 (усл))\nЛекции\nЗаметка: актовый зал
+DTEND:20250326T100000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250326T083000Z
+SUMMARY:Программирование
+UID:7d19d47b-f9ef-40ef-be8b-a6a0ecce9009@7d19.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2336\nПрактические занятия
+DTEND:20250303T120000Z
+ORGANIZER;CN=Баликоева Залина Даниловна:mailto:Баликоева Залина Даниловна
+DTSTART:20250303T103000Z
+SUMMARY:Коммуникации и командообразование
+UID:2773053e-53c2-41d8-9940-5a2c7df76ca8@2773.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1506\nПрактические занятия
+DTEND:20250303T154000Z
+ORGANIZER;CN=Поляков Владимир Иванович:mailto:Поляков Владимир Иванович
+DTSTART:20250303T141000Z
+SUMMARY:Дискретная математика (базовый уровень)
+UID:aa08a167-d644-4b17-84c7-45d04436f591@aa08.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250318T082000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250318T065000Z
+SUMMARY:Английский язык C1
+UID:c09dce7f-36f5-4dad-95d6-1a7e61e02a4e@c09d.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Практические занятия
+DTEND:20250322T190000Z
+ORGANIZER;CN=Кутлубаева Дария Нуровна:mailto:Кутлубаева Дария Нуровна
+DTSTART:20250322T173000Z
+SUMMARY:Россия в истории современных международных отношений
+UID:65e83db4-dbf4-438a-be3a-b09d317c4ec3@65e8.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1315\nПрактические занятия\nЗаметка: Лаврухин В.А.
+DTEND:20250318T100000Z
+DTSTART:20250318T083000Z
+SUMMARY:Линейная алгебра
+UID:77fbd925-9763-4772-9da6-f1858921eed8@77fb.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250304T064000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250304T051000Z
+SUMMARY:Английский язык C1
+UID:faf5873f-c744-4566-8e72-0b0005a46120@faf5.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250311T082000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250311T065000Z
+SUMMARY:Английский язык C1
+UID:032963ba-8fac-4077-9940-ab39a036f149@0329.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1328\nЛабораторные занятия
+DTEND:20250313T100000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250313T083000Z
+SUMMARY:Основы профессиональной деятельности
+UID:fca538ef-e222-465d-b3a6-667713d815e3@fca5.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1405\nЛекции
+DTEND:20250328T082000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250328T065000Z
+SUMMARY:Математический анализ
+UID:0cffc77a-69d4-4e0b-a88e-ec48519279ec@0cff.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250304T082000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250304T065000Z
+SUMMARY:Английский язык C1
+UID:479f8c19-acb3-433a-ae69-28443372135a@479f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1338\nЛабораторные занятия
+DTEND:20250326T154000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250326T141000Z
+SUMMARY:Программирование
+UID:b20a52d6-a80c-4a5e-90ad-9485a8aa7c72@b20a.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Лекции\nЗаметка: zoom
+DTEND:20250322T064000Z
+ORGANIZER;CN=Сердюков Александр Николаевич:mailto:Сердюков Александр Николаевич
+DTSTART:20250322T051000Z
+SUMMARY:Линейная алгебра
+UID:4e907015-ac11-4491-a858-687de27db327@4e90.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М Актовый зал (1216/0 (усл))\nЛекции\nЗаметка: актовый зал
+DTEND:20250312T100000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250312T083000Z
+SUMMARY:Программирование
+UID:b02bb784-32a1-4d3b-80df-9fefc69dfe2a@b02b.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1338\nЛабораторные занятия
+DTEND:20250326T140000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250326T123000Z
+SUMMARY:Программирование
+UID:6fe58d29-7171-45f0-965f-5fecbf76a857@6fe5.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М Актовый зал (1216/0 (усл))\nЛекции\nЗаметка: актовый зал
+DTEND:20250226T100000Z
+ORGANIZER;CN=Гаврилов Антон Валерьевич:mailto:Гаврилов Антон Валерьевич
+DTSTART:20250226T083000Z
+SUMMARY:Программирование
+UID:3f880c2a-401e-4bde-880f-756846798e3a@3f88.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1315\nПрактические занятия\nЗаметка: Лаврухин В.А.
+DTEND:20250325T100000Z
+DTSTART:20250325T083000Z
+SUMMARY:Линейная алгебра
+UID:3ffffb39-0810-403f-b6e6-c29cd198b12b@3fff.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М Актовый зал (1216/0 (усл))\nЛекции\nЗаметка: актовый зал
+DTEND:20250326T082000Z
+ORGANIZER;CN=Клименков Сергей Викторович:mailto:Клименков Сергей Викторович
+DTSTART:20250326T065000Z
+SUMMARY:Основы профессиональной деятельности
+UID:5cfd7948-6eec-42d1-a5c8-f0b96e2cc664@5cfd.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1506\nПрактические занятия
+DTEND:20250310T154000Z
+ORGANIZER;CN=Поляков Владимир Иванович:mailto:Поляков Владимир Иванович
+DTSTART:20250310T141000Z
+SUMMARY:Дискретная математика (базовый уровень)
+UID:7b46c913-6052-4437-874b-e5fa79f647a8@7b46.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М Актовый зал (1216/0 (усл))\nЛекции\nЗаметка: актовый зал
+DTEND:20250319T100000Z
+ORGANIZER;CN=Николаев Владимир Вячеславович:mailto:Николаев Владимир Вячеславович
+DTSTART:20250319T083000Z
+SUMMARY:Базы данных
+UID:ce5f18a2-d553-4b7f-b5ab-8b6c7132868a@ce5f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1310\nПрактические занятия
+DTEND:20250321T154000Z
+ORGANIZER;CN=Власова Ассоль Александровна:mailto:Власова Ассоль Александровна
+DTSTART:20250321T141000Z
+SUMMARY:Критический анализ новостей: идеология\, власть\, манипуляция/ Analyzing the news: ideology\, power\, manipulation
+UID:bd4fd5ca-63b6-45db-b145-cb72e5baa704@bd4f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1315\nПрактические занятия\nЗаметка: Лаврухин В.А.
+DTEND:20250225T100000Z
+DTSTART:20250225T083000Z
+SUMMARY:Линейная алгебра
+UID:b361722f-0b87-4a1a-975d-304d9216ef9c@b361.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250225T064000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250225T051000Z
+SUMMARY:Английский язык C1
+UID:3631ca7d-fed2-4fc4-a05e-07810fb979cd@3631.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М Актовый зал (1216/0 (усл))\nЛекции\nЗаметка: актовый зал
+DTEND:20250312T082000Z
+ORGANIZER;CN=Клименков Сергей Викторович:mailto:Клименков Сергей Викторович
+DTSTART:20250312T065000Z
+SUMMARY:Основы профессиональной деятельности
+UID:c2a0efbd-0967-4f1a-932a-288762225b3b@c2a0.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1222\nЗанятия спортом
+DTEND:20250312T171000Z
+ORGANIZER;CN=Чирков Кирилл Александрович:mailto:Чирков Кирилл Александрович
+DTSTART:20250312T154000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:60d8f648-d6ba-4941-9560-831abafc6ad9@60d8.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250325T064000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250325T051000Z
+SUMMARY:Английский язык C1
+UID:96cede62-d24b-4c35-8aef-0bd3bf39efd3@96ce.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1506\nЛекции
+DTEND:20250317T140000Z
+ORGANIZER;CN=Поляков Владимир Иванович:mailto:Поляков Владимир Иванович
+DTSTART:20250317T123000Z
+SUMMARY:Дискретная математика (базовый уровень)
+UID:f1dde382-eeb8-4684-8e0d-92060d4ce98e@f1dd.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2336\nПрактические занятия
+DTEND:20250317T120000Z
+ORGANIZER;CN=Баликоева Залина Даниловна:mailto:Баликоева Залина Даниловна
+DTSTART:20250317T103000Z
+SUMMARY:Коммуникации и командообразование
+UID:155e29b3-2009-4c59-9731-ef94f3f2770c@155e.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1310\nПрактические занятия
+DTEND:20250314T154000Z
+ORGANIZER;CN=Власова Ассоль Александровна:mailto:Власова Ассоль Александровна
+DTSTART:20250314T141000Z
+SUMMARY:Критический анализ новостей: идеология\, власть\, манипуляция/ Analyzing the news: ideology\, power\, manipulation
+UID:a2fa032a-e549-4d82-8beb-9d64d72e698b@a2fa.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1310\nПрактические занятия
+DTEND:20250228T154000Z
+ORGANIZER;CN=Власова Ассоль Александровна:mailto:Власова Ассоль Александровна
+DTSTART:20250228T141000Z
+SUMMARY:Критический анализ новостей: идеология\, власть\, манипуляция/ Analyzing the news: ideology\, power\, manipulation
+UID:1410f0e1-27a4-414f-81de-5851774608f1@1410.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2336\nПрактические занятия
+DTEND:20250310T100000Z
+ORGANIZER;CN=Баликоева Залина Даниловна:mailto:Баликоева Залина Даниловна
+DTSTART:20250310T083000Z
+SUMMARY:Коммуникации и командообразование
+UID:35b16301-a6fb-4fb4-aa76-b73a8edb4a9e@35b1.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лабораторные занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1328\nЛабораторные занятия
+DTEND:20250313T120000Z
+ORGANIZER;CN=Ермаков Михаил Константинович:mailto:Ермаков Михаил Константинович
+DTSTART:20250313T103000Z
+SUMMARY:Основы профессиональной деятельности
+UID:8652c607-6df5-440c-bb40-f1649ed16354@8652.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Занятия спортом
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1226\nЗанятия спортом
+DTEND:20250322T143000Z
+ORGANIZER;CN=Коляда Всеволод Алексеевич:mailto:Коляда Всеволод Алексеевич
+DTSTART:20250322T130000Z
+SUMMARY:Парусный спорт (теоретическое занятие)
+UID:4b1b6f26-be7d-40a6-b8a2-d91a5fac82d1@4b1b.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 2336\nПрактические занятия
+DTEND:20250324T100000Z
+ORGANIZER;CN=Баликоева Залина Даниловна:mailto:Баликоева Залина Даниловна
+DTSTART:20250324T083000Z
+SUMMARY:Коммуникации и командообразование
+UID:2c5f1631-1745-4377-bbd1-8ccc15354874@2c5f.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1428\nПрактические занятия
+DTEND:20250306T120000Z
+ORGANIZER;CN=Кутлубаева Дария Нуровна:mailto:Кутлубаева Дария Нуровна
+DTSTART:20250306T103000Z
+SUMMARY:Россия в истории современных международных отношений
+UID:d6fc4ac9-fd26-4ea4-b95a-b572930488f4@d6fc.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Лекции
+DESCRIPTION:Кронверкский пр.\, д.49\, лит.А 1405\nЛекции
+DTEND:20250228T082000Z
+ORGANIZER;CN=Правдин Константин Владимирович:mailto:Правдин Константин Владимирович
+DTSTART:20250228T065000Z
+SUMMARY:Математический анализ
+UID:10931465-a535-4b74-acf6-e43dfabb388e@1093.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. Е 3302\nПрактические занятия
+DTEND:20250318T064000Z
+ORGANIZER;CN=Наконечная Оксана Валерьевна:mailto:Наконечная Оксана Валерьевна
+DTSTART:20250318T051000Z
+SUMMARY:Английский язык C1
+UID:90fca03c-17b2-4890-9eda-4e104890f7e3@90fc.org
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Практические занятия
+DESCRIPTION:ул.Ломоносова\, д.9\, лит. М 1315\nПрактические занятия\nЗаметка: Лаврухин В.А.
+DTEND:20250304T100000Z
+DTSTART:20250304T083000Z
+SUMMARY:Линейная алгебра
+UID:d084bace-bccc-44e3-a311-07ad7d30867f@d084.org
+END:VEVENT
+END:VCALENDAR
