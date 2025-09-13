@@ -1,0 +1,6 @@
+[submodule "Programming"]
+	path = Programming
+	url = ./Programming
+[submodule "CompSci"]
+	path = CompSci
+	url = ./CompSci

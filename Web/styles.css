@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Bebas Neue Cyrillic', sans-serif;
+    background-image: url('backimage.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+}
+
+body, input, button, table, th, td {
+    font-family: 'Bebas Neue Cyrillic', sans-serif;
+    color: antiquewhite;
+}
+
+.header_site {
+    background-color: #034742;
+    padding: 15px 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.container img {
+    height: 40px;
+    width: auto;
+}
+
+.initials_nav,
+.other_nav {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+.initials_nav li,
+.other_nav li {
+    color: white;
+    font-size: 22px;
+}

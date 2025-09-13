@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8" />
+        <title>Лабораторная работа №1</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header class="header_site">
+            <div class="container">
+                <a href="https://se.ifmo.ru/courses/web">
+                    <img src="logo_itmo.png" alt="ITMO">
+                </a>
+                <nav class="initials_nav">
+                    <li>Леонтьева</li>
+                    <li>Арина</li>
+                    <li>Николаевна</li>
+                </nav>
+                <nav class="other_nav">
+                    <li>P3213</li>
+                    <li>472157</li>
+                </nav>
+            </div>
+        </header>
+
+        <div id="canvas_form_container">
+            <form id="main_form">
+                <div id="choice_of_x">
+                    <div class="label_name">Выберите координату Х: </div>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="-4">-4</label>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="-3">-3</label>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="-2">-2</label>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="-1">-1</label>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="0">0</label>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="1">1</label>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="2">2</label>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="3">3</label>
+                    <label><input class="checkboxForX" type="checkbox" name="x" value="4">4</label>
+                </div>
+                <div id="choice_of_y">
+                    <div class="label_name">Выберите координату Y: </div>
+                    <label><input type="number" id="y" placeholder="От -5 до 5" min="-5" max="5" step="0.1 "></label>
+                </div>
+                <div id="choice_of_r">
+                    <div class="label_name">Выберите R:</div>
+                    <label><input class="radioForR" type="radio" name="r" value="1">1</label>
+                    <label><input class="radioForR" type="radio" name="r" value="1.5">1.5</label>
+                    <label><input class="radioForR" type="radio" name="r" value="2">2</label>
+                    <label><input class="radioForR" type="radio" name="r" value="2.5">2.5</label>
+                    <label><input class="radioForR" type="radio" name="r" value="3">3</label>
+                </div>
+                <div id="button_container">
+                    <button id="submit_button" type="button">Подтвердить</button>
+                    <button id="clear_form_button" type="button">Очистить форму</button>
+                    <button id="clear_table_button" type="button">Очистить таблицу</button>
+                </div>
+                <div id="error" hidden></div>
+            </form>
+            <div id="main_canvas">
+                <canvas id="coordinate_plane" width="400" height="400"></canvas>
+            </div>
+            <div id="table_container">
+                <table id="result_table">
+                    <thead>
+                    <tr>
+                        <th>X</th>
+                        <th>Y</th>
+                        <th>R</th>
+                        <th>Попали ли вы? </th>
+                        <th>Текущая дата: </th>
+                    </tr>
+                    </thead>
+                    <tbody id="body_for_table"></tbody>
+                </table>
+            </div>
+        </div>
+    </body>
+    <script type="module" src="script.js"></script>
+</html>

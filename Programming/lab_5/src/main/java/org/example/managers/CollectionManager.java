@@ -79,9 +79,13 @@ public class CollectionManager implements Sortable {
         collection.clear();
         dumpManager.readCollection(collection);
         lastInitializationTime = LocalDateTime.now();
-        if (!areIdsUnique()) {
-            console.printError("Найдены дубликаты ID в коллекции!");
-            collection.clear();
+        try {
+            if (!areIdsUnique()) {
+                console.printError("Найдены дубликаты ID в коллекции!");
+                throw new Exception("ID дублируется!");
+        }
+        } catch (Exception e) {
+            throw new RuntimeException(e);
         }
         if (!collection.isEmpty()) {
             sort();

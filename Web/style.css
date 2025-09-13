@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue Cyrillic', sans-serif; 
+}
+
+.header_site {
+    background-color: #003492;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between; /* Распределяет пространство между элементами */
+    align-items: center;
+    padding: 10px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.club-name {
+    font-size: 1.2rem; /* Увеличиваем размер */
+    margin-right: 80px; /* Прижимает к левому краю */
+    color: #ffffff;
+}
+
+.main_nav {
+    display: flex;
+    gap: 40px; /* Уменьшили расстояние между кнопками */
+    margin-right: auto; /* Прижимаем к логотипу справа */
+}
+
+.logo img {
+    height: 50px;
+    margin-left: auto; /* Прижимает к правому краю */
+}
+
+.main_nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 1.1rem;
+}
+
+.header_image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 300px; /* Или нужная вам высота */
+    object-fit: cover; /* Чтобы изображение заполняло область */
+}
+
+.slider-wrapper {
+    max-width: 1200px; /* Ограничиваем ширину как у шапки */
+    margin: 0 auto;
+    padding: 0 20px;
+    position: relative;
+}
+
+.image-slider {
+    display: flex;
+    transition: transform 0.5s ease;
+    gap: 20px; /* Расстояние между слайдами */
+}
+
+.slide {
+    flex: 0 0 auto; /* Запрещаем растягивание */
+    position: relative;
+    width: auto; /* Ширина по содержимому */
+}
+
+.slide img {
+    max-width: 100%;
+    height: auto; /* Сохраняем пропорции */
+    display: block;
+    max-height: 400px; /* Можно ограничить высоту */
+    border-radius: 8px; /* Опционально */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Опционально */
+}
+
+.slide-text {
+    position: absolute;
+    left: 15px;
+    bottom: 15px;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 8px 15px;
+    border-radius: 4px;
+    max-width: 80%;
+}
+
+.slider-arrow {
+    position: absolute;
+    right: -40px; /* Выносим за пределы слайдера */
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2.5rem;
+    color: #003492; /* Цвет как у шапки */
+    cursor: pointer;
+    z-index: 10;
+    transition: all 0.3s;
+}
+
+.slider-arrow:hover {
+    transform: translateY(-50%) scale(1.1);
+    color: #002366;
+}

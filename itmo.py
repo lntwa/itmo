@@ -9,8 +9,8 @@ from ics import Calendar, Event
 token = input("token: ")
 
 params = {
-    "date_start": "2025-02-25",
-    "date_end": "2025-03-30",
+    "date_start": "2025-09-11",
+    "date_end": "2025-10-19",
 }
 
 headers = {

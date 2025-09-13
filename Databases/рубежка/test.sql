@@ -1,0 +1,11 @@
+CREATE TABLE table_name (
+    column1 datatype,
+    column2 datatype,
+    ...,
+    CONSTRAINT constraint_name CHECK (condition)
+);
+
+CREATE TABLE Employees (
+    ID int,
+    Age int CHECK (Age >= 18)
+);

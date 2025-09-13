@@ -42,13 +42,16 @@ public class ScriptManager {
      * @param scriptScanner сканер для чтения из скрипта
      * @return true, если может быть рекурсия, иначе false
      */
-    private boolean checkRecursion(String argument, Scanner scriptScanner) {
+    private boolean checkRecursion(String argument, Scanner scriptScanner) throws Exception {
         // если аргумент уже содержится в стеке скриптов, это рекурсия
-        if (scriptStack.contains(argument)) {
-            console.selectConsoleScanner(); // переключаемся на консольный ввод
-            console.println("Обнаружена рекурсия! Скрипт '" + argument + "' уже выполняется.");
-            console.selectFileScanner(scriptScanner); // возвращаемся к сканеру файла
-            return true; // рекурсия обнаружена
+        try{
+            if (scriptStack.contains(argument)) {
+                console.selectConsoleScanner(); // переключаемся на консольный ввод
+                console.println("Обнаружена рекурсия! Скрипт '" + argument + "' уже выполняется.");
+               throw new Exception("Рекурсия!!");
+            }
+        } catch (Exception e) {
+            throw new RuntimeException(e);
         }
         return false; // рекурсии нет
     }
